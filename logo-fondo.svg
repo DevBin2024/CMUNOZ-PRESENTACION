@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <title>Bionativa — versión simplificada para fondo</title>
+  <defs>
+    <path id="upper" d="M 124,300 A 176,176 0 0,1 476,300"/>
+    <path id="lower" d="M 79,300 A 221,221 0 0,0 521,300"/>
+  </defs>
+  <g stroke="#d8ed99" stroke-width="5">
+    <circle cx="300" cy="300" r="283"/>
+    <path d="M126 300a174 174 0 0 1 15-71M474 300a174 174 0 0 0-15-71" stroke-linecap="round"/>
+  </g>
+  <g fill="#d8ed99">
+    <!-- Silueta vegetal simplificada del emblema original. -->
+    <path d="M300 145c-9 27-46 54-46 88 0 24 22 39 46 53 23-14 45-29 45-53 0-34-36-61-45-88Z"/>
+    <path d="M285 284c-29-56-71-24-122-60 7 64 42 80 88 72 15-3 24-4 34-12Z"/>
+    <path d="M315 284c29-56 71-24 122-60-7 64-42 80-88 72-15-3-24-4-34-12Z"/>
+    <path d="M300 290c-17 26-40 43-42 68-3 33 18 58 42 71 24-13 45-38 42-71-2-25-25-42-42-68Z"/>
+    <path d="M291 249h18v183h-18z"/>
+    <path d="M299 313c-27-31-63 4-87-5 24 22 58 11 87 25Zm2 0c27-31 63 4 87-5-24 22-58 11-87 25Z"/>
+  </g>
+  <g fill="#d8ed99" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="31" letter-spacing="12">
+    <text text-anchor="middle"><textPath href="#upper" startOffset="50%">NATIVA</textPath></text>
+    <text text-anchor="middle"><textPath href="#lower" startOffset="50%">BIOINSUMOS</textPath></text>
+  </g>
+</svg>

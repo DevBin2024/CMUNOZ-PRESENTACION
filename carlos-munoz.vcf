@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Muñoz Alarcón;Carlos;;;
+FN:Carlos Muñoz Alarcón
+ORG:Bionativa
+TITLE:CEO
+TEL;TYPE=CELL:+56958128098
+TEL;TYPE=WORK,VOICE:+56712970696
+EMAIL;TYPE=INTERNET,WORK:cmunoz@bionativa.cl
+URL:https://www.bionativa.cl/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/
+ carlos-muñoz-alarcón-9713ba24/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/bionativa.chile
+NOTE:WhatsApp: https://wa.me/56958128098
+END:VCARD
